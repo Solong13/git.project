@@ -1,0 +1,17 @@
+"name" : "Sam/product_catalog";
+        "authors"[
+{
+"name" : "Sam Nixon";
+  "email" : qrerwsdfas@gmail.com"";
+
+}
+
+]
+{
+  "autoload": {
+    "psr-4": {
+      "Services\\": "services",
+      "App\\": "src"
+    }
+  }
+}
